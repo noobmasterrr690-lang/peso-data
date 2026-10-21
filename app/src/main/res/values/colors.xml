@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#111214</color>
+    <color name="peso_dark_bg">#111214</color>
+    <color name="peso_volt_green">#D7FF3F</color>
+    <color name="peso_gold">#E7B65D</color>
+</resources>

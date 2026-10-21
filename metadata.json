@@ -1,0 +1,6 @@
+{
+  "name": "PESO",
+  "description": "Personal Expense & Spending Organizer for students and young adults",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
